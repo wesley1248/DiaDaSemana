@@ -1,0 +1,7 @@
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\CondiçaoSwitch\CondiçaoSwitch\bin\Debug\CondiçaoSwitch.exe.config
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\CondiçaoSwitch\CondiçaoSwitch\bin\Debug\CondiçaoSwitch.exe
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\CondiçaoSwitch\CondiçaoSwitch\bin\Debug\CondiçaoSwitch.pdb
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\CondiçaoSwitch\CondiçaoSwitch\obj\Debug\CondiçaoSwitch.csproj.AssemblyReference.cache
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\CondiçaoSwitch\CondiçaoSwitch\obj\Debug\CondiçaoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\CondiçaoSwitch\CondiçaoSwitch\obj\Debug\CondiçaoSwitch.exe
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\CondiçaoSwitch\CondiçaoSwitch\obj\Debug\CondiçaoSwitch.pdb
